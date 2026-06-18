@@ -14,6 +14,13 @@ The product spans three user roles with distinct portals:
 
 Built over a full semester (Feb–Apr 2026) by a team of ~6 engineers, with feature work tracked through ~190 PRs and 600+ commits on a shared `dev` branch, merged through code review.
 
+## Screenshots
+
+![Home Page](Photos/HomePage.png)
+![Search Listings Page](Photos/SearchPage.png)
+![My Listings Landlord Page](Photos/MyListingsPage.png)
+![Admin Portal Page](Photos/AdminPage.png)
+
 ## Tech stack
 
 | Layer | Technology |
