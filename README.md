@@ -1,4 +1,4 @@
-# Bullhouse-Case-Study
+# Bullhouse Case Study
 Full-stack student housing and roommate-matching platform built with React, PHP, and MySQL — case study covering architecture, engineering decisions, and my contributions.
 
 > **Note:** This is a write-up of work I did on a team project for Software Engineering at the University at Buffalo. The original repository lives in a private GitHub Classroom organization and can't be published here due to UB's academic integrity guidelines. This document describes the system, my role, and the engineering decisions involved — no source code from the original repository is reproduced.
