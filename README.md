@@ -38,7 +38,6 @@ I was the primary owner of the **landlord** and **admin** portal — roughly 130
 ### Listings — core CRUD and lifecycle
 - Built the listing data model and listing controller end-to-end: create, edit, delete, and status transitions.
 - Implemented listing status toggling (active/occupied) so landlords can mark a unit occupied and have it automatically excluded from student search results, instead of deleting and recreating listings.
-- Added geocoding for listing addresses (Nominatim/OpenStreetMap) so listings could carry lat/lng for map-based display
 
 ### Landlord portal
 - Built the landlord dashboard shell: sidebar navigation, mobile nav, overview page, and the "My Listings" management page.
